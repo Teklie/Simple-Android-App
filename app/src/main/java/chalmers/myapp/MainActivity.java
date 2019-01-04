@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Light Wattamount = new Light(energyConsumption : 60);
-        Wattamount.TurnOn();
 
 
     }
